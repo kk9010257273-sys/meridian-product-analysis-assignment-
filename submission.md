@@ -1,4 +1,4 @@
-# Product Analyst Intern Assignment — Akhilsai Patel Alka
+# Product Analyst Intern Assignment 
 
 ## Task 1 — API/documentation mismatches
 
