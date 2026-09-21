@@ -44,7 +44,7 @@ Assuming refunded orders are excluded, the revenue from the available orders is 
 I've documented the underlying API issue separately for engineering investigation.
 
 Best,
-Akhilsai
+KiranKumar Borigarla
 
 ## Task 3B — Bug report
 
